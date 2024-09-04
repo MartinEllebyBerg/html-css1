@@ -1,9 +1,25 @@
 h1 {
-    color: aqua;
-    font-family: Algerian;
+    color: rgb(100,100,0);
+    font-family: "Bell MT";
 }
 
 h2 {
-    color: blueviolet;
+    color: cornflowerblue;
     font-family: "Bell MT";
+}
+.center {
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+
+    font-size: 2em;
+    width: 100%;
+
+}
+nav ol {
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
 }
